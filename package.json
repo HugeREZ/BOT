@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "=3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugeREZ/BOT.git"
+  },
+  "keywords": [
+    "hugerez"
+  ],
+  "author": "HugeREZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugeREZ/BOT/issues"
+  },
+  "homepage": "https://github.com/HugeREZ/BOT#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
