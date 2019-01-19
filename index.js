@@ -3,8 +3,7 @@ const kes = new Discord.Client();
 const config = require("./config.json");
 const { Client, Attachment } = require('discord.js');
 
-//const pref = "//";
-//kes.login("NTEyMDEyMDI4MzcwNjE2MzYw.DszQGQ.c0serCnjqP2WV3N1U3NkV6Yqz7M");
+
 kes.login(config.token);
 
 kes.on("ready", () => {
